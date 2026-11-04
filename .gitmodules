@@ -1,4 +1,4 @@
 [submodule "plugin"]
 	path = plugin
 	url = https://github.com/kudrmax/obsidian-task-tracker.git
-	branch = phone-reminders
+	branch = master
